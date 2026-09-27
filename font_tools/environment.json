@@ -1,0 +1,29 @@
+{
+  "checked_at": "2026-09-27",
+  "illustrator": {
+    "version": "30.8.1",
+    "executable": "C:/Program Files/Adobe/Adobe Illustrator 2026/Support Files/Contents/Windows/Illustrator.exe",
+    "script_interface": "Illustrator.Application / DoJavaScriptFile",
+    "verified": ["startup", "script_execution", "ai_save", "svg_export"]
+  },
+  "fontforge": {
+    "version": "20251009",
+    "executable": "F:/fontforge/FontForgeBuilds/bin/fontforge.exe",
+    "python_executable": "F:/fontforge/FontForgeBuilds/bin/ffpython.exe",
+    "verified": ["python_script_execution", "source_sc_outline_export", "source_jp_outline_export", "illustrator_svg_import", "sfd_save", "otf_generate_and_reopen"]
+  },
+  "verification_output": "build/tool_check/",
+  "fonttools_runtime": {
+    "python": "C:/Users/lenovo/AppData/Local/Programs/Python/Python313/python.exe",
+    "fonttools_version": "4.61.0",
+    "pillow_available": true
+  },
+  "notes": [
+    "Source Han Sans is CID keyed; flatten the in-memory editing copy before Unicode glyph extraction.",
+    "The verification script keeps CID fonts alive until process exit to avoid an observed FontForge glyph lifetime error on close.",
+    "FontForge ignores DSIG and VORG on source import; source fonts must remain unchanged and final production builds need a separate preservation and audit workflow.",
+    "Illustrator native screenshot capture returned SetIsBorderRequired interface error; script operation was verified independently.",
+    "FontForge plugin configuration writes require permissions outside the project sandbox.",
+    "Independent ffpython SVG import failed in this environment; use fontforge.exe -lang=py -script for composition."
+  ]
+}

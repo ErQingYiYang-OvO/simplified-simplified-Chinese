@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "id": "cmp-0001",
+      "name": "能·左上部件",
+      "source": "Source Han Sans SC / Regular / 能 U+80FD / 原字左上轮廓提取",
+      "outline": "components/svg/cmp-0001.svg",
+      "source_font": "sources/09_SourceHanSansSC/OTF/SimplifiedChinese/SourceHanSansSC-Regular.otf",
+      "source_glyph": "cid32782",
+      "contour_indices": [
+        5
+      ],
+      "note": "类似ム；实际来自原字能，保留原字特征。"
+    },
+    {
+      "id": "cmp-0002",
+      "name": "力·独体",
+      "source": "Source Han Sans SC / Regular / 力 U+529B / 完整轮廓",
+      "outline": "components/svg/cmp-0002.svg",
+      "source_font": "sources/09_SourceHanSansSC/OTF/SimplifiedChinese/SourceHanSansSC-Regular.otf",
+      "source_glyph": "cid11402"
+    },
+    {
+      "id": "cmp-0003",
+      "name": "能·字头修整版",
+      "source": "Source Han Sans SC / Regular / 能左上部件 cmp-0001 / 展开字面、提高字头并手工修顺曲线",
+      "outline": "components/svg/cmp-0003.svg",
+      "derived_from": "cmp-0001",
+      "position": "字头",
+      "revision": 3,
+      "note": "以原字左上部件为依据修整的位置变体；不是未经修改的原版提取轮廓。"
+    },
+    {
+      "id": "cmp-0004",
+      "name": "能·字头定稿",
+      "source": "Source Han Sans SC / Regular / cmp-0001 / 用户手动微调并确认的位置变体",
+      "outline": "components/svg/cmp-0004.svg",
+      "derived_from": "cmp-0001",
+      "status": "用户确认",
+      "approved_svg_sha256": "6b1ff132f0b739c5787faa393e4acd89ec90723c15e599af970fbaaf1b59bd12"
+    },
+    {
+      "id": "cmp-0005",
+      "name": "力·字底定稿",
+      "source": "Source Han Sans SC / Regular / cmp-0002 / 用户手动微调并确认的位置变体",
+      "outline": "components/svg/cmp-0005.svg",
+      "derived_from": "cmp-0002",
+      "status": "用户确认",
+      "approved_svg_sha256": "6b1ff132f0b739c5787faa393e4acd89ec90723c15e599af970fbaaf1b59bd12"
+    }
+  ]
+}

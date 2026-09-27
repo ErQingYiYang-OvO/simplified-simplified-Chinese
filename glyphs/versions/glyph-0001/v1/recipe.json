@@ -1,0 +1,35 @@
+{
+  "glyph_id": "glyph-0001",
+  "original": "能",
+  "structure": "top-bottom",
+  "units_per_em": 1000,
+  "ascent": 880,
+  "descent": 120,
+  "upper": {
+    "component_id": "cmp-0001",
+    "scale": 1.12,
+    "translate": [
+      186.39990234375,
+      -108.0400390625
+    ]
+  },
+  "lower": {
+    "component_id": "cmp-0002",
+    "scale": 0.58,
+    "weight_compensation": 24,
+    "translate": [
+      214.52660245187343,
+      -45.1201171875
+    ]
+  },
+  "gap": 36,
+  "width": 1000,
+  "validation_flags": 0,
+  "bounds": [
+    223.0,
+    -110.0,
+    777.0,
+    835.0
+  ],
+  "status": "draft_for_user_review"
+}

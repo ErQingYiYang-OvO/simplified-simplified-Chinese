@@ -1,0 +1,11 @@
+{
+  "glyph_id": "glyph-0001",
+  "original": "能",
+  "revision": 4,
+  "status": "用户确认",
+  "outline_authority": "glyphs/versions/glyph-0001/v4-approved/user-confirmed.svg",
+  "sha256": "6b1ff132f0b739c5787faa393e4acd89ec90723c15e599af970fbaaf1b59bd12",
+  "coordinate_system": "1000 UPM; baseline at SVG y=880",
+  "width": 1000,
+  "note": "直接使用用户手动调整并确认的 SVG，不运行旧版本部件拼装。"
+}

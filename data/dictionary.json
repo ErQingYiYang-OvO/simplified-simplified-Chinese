@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "id": "entry-0001",
+      "original": "能",
+      "method": "意字",
+      "idea": "联想到“能力”一词，以及能量与用力做功的关系，选取“力”部件；保留原字“能”的左上角部件，以保留部分原字特征。新字采用上下结构，上为原字左上部件，下为力。",
+      "glyph_id": "glyph-0001",
+      "revision": 4,
+      "status": "用户确认",
+      "approved_svg_sha256": "6b1ff132f0b739c5787faa393e4acd89ec90723c15e599af970fbaaf1b59bd12"
+    }
+  ]
+}

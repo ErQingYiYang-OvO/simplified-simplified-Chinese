@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>再简字字典</title>
+  <link rel="stylesheet" href="/style.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <header><div class="brand">再简字<span>字典</span></div><span class="badge">只读浏览</span></header>
+  <main>
+    <section class="intro"><p class="eyebrow">字形 · 部件 · 造字思路</p><h1>让每一个新字，都有迹可循。</h1><p>以思源黑体为基础，记录进一步简化的字形与构字依据。</p></section>
+    <nav aria-label="查询目录"><button class="tab active" data-kind="dictionary" aria-pressed="true">字典 <span id="count-dictionary">0</span></button><button class="tab" data-kind="components" aria-pressed="false">部件 <span id="count-components">0</span></button><button class="tab" data-kind="glyphs" aria-pressed="false">字形 <span id="count-glyphs">0</span></button></nav>
+    <form id="search-form"><label class="sr-only" for="query">查询关键词</label><input id="query" placeholder="搜索原字、造字法或造字思路" autocomplete="off"><label class="sr-only" for="method">造字法</label><select id="method"><option value="">全部造字法</option></select><button class="search-button" type="submit">查询</button><button class="refresh-button" type="button" id="refresh">刷新目录</button></form>
+    <p id="status" role="status">正在读取目录…</p>
+    <section class="workspace"><div class="results-pane"><div id="results" aria-label="查询结果"></div><div id="empty" hidden><div class="empty-mark">字</div><h2 id="empty-title">字典尚未收录字形</h2><p id="empty-description">框架已就绪。第一份字形入库后，会在这里展示。</p></div></div><aside id="detail" aria-label="详细信息"><div class="detail-placeholder"><span>字形档案</span><p>选择一条记录，查看轮廓与设计信息。</p></div></aside></section>
+    <footer>源字体：Source Han Sans SC / Japanese · 当前按 Regular 字重开展设计</footer>
+  </main>
+</body>
+</html>

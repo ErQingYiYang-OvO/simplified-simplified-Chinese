@@ -1,0 +1,27 @@
+{
+  "checks": {
+    "cmap": true,
+    "hhea": true,
+    "vhea": true,
+    "OS/2": true,
+    "GDEF": true,
+    "GPOS": true,
+    "GSUB": true,
+    "VORG": true,
+    "vmtx": true,
+    "all_advance_widths": true,
+    "glyph_order": true,
+    "only_neng_outline_changed": true,
+    "outline_bounds_match": true
+  },
+  "modified_charstrings": [
+    "cid32782"
+  ],
+  "bounds": [
+    55.0,
+    -55.0,
+    945.0,
+    837.0
+  ],
+  "review_status": "user_confirmed"
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "id": "glyph-0001",
+      "original": "能",
+      "outline": "glyphs/svg/glyph-0001.svg",
+      "component_ids": [
+        "cmp-0004",
+        "cmp-0005"
+      ],
+      "structure": "上下结构",
+      "ai_file": "glyphs/ai/glyph-0001.ai",
+      "fontforge_file": "fontforge/neng-0001.sfd",
+      "recipe_file": "glyphs/recipes/glyph-0001.json",
+      "reference_image": "design/sketches/neng-0001.jpg",
+      "revision": 4,
+      "status": "用户确认",
+      "approved_svg_sha256": "6b1ff132f0b739c5787faa393e4acd89ec90723c15e599af970fbaaf1b59bd12",
+      "approved_source": "glyphs/versions/glyph-0001/v4-approved/user-confirmed.svg",
+      "font_file": "releases/ZaiJianSans-Regular.otf"
+    }
+  ]
+}

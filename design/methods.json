@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "methods": [
+    {"name": "意字", "description": "以意义为依据选择或重组部件。"},
+    {"name": "简字", "description": "在原字结构上省减或简化笔画。"},
+    {"name": "拼字", "description": "选择现成部件重新拼装字形。"},
+    {"name": "俗字", "description": "参考已有俗写、简写或草写形式。"},
+    {"name": "借字", "description": "借用已有字形或符号，并记录借用依据。"}
+  ]
+}

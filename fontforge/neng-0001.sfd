@@ -1,0 +1,91 @@
+SplineFontDB: 3.2
+FontName: ZaiJianNengApproved-Regular
+FullName: ZaiJian Neng Approved Regular
+FamilyName: ZaiJian Neng Approved
+Weight: Regular
+Copyright: Copyright (c) 2026, lenovo
+UComments: "2026-9-27: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 880
+Descent: 120
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 330 75579764 6405]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1790503387
+ModificationTime: 1790503387
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+BeginChars: 1114112 1
+
+StartChar: uni80FD
+Encoding: 33021 33021 0
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+720 731 m 1
+ 804 660 900 525 935 428 c 1
+ 886 396 l 1
+ 878 419 865 448 854 471 c 1
+ 559 452 311 444 118 433 c 1
+ 79.6357421875 499.982421875 l 1
+ 104.635742188 502.982421875 155.7109375 538.887695312 181 559 c 0
+ 308 660 417 745 494 837 c 1
+ 552 792 l 1
+ 473 712 339 589 216 498 c 1
+ 405 507 616.192382812 517.694335938 818.158203125 529.305664062 c 1
+ 813.059570312 529.012695312 784 595 660 698 c 1
+ 720 731 l 1
+520 405 m 1
+ 520 315 l 1
+ 945 315 l 1
+ 932 132 914 33 877 -12 c 0
+ 855 -37 826 -42 777 -44 c 0
+ 761.767306376 -44.7084973779 744.024770079 -45.0405183549 724.750410434 -45.0405183549 c 0
+ 689.615649461 -45.0405183549 649.390829975 -43.9372539332 610 -42 c 1
+ 608 -25 599 10 585 24 c 1
+ 652 20 727 16 776 16 c 0
+ 796 16 816.909179688 28.43359375 828.909179688 42.43359375 c 0
+ 848.909179688 62.43359375 850 119 866 246 c 1
+ 520 246 l 1
+ 499 149 424 46 111 -55 c 1
+ 55 -5 l 1
+ 284 76 411 150 436 246 c 1
+ 90 246 l 1
+ 90 315 l 1
+ 443 315 l 1
+ 443 405 l 1
+ 520 405 l 1
+EndSplineSet
+Validated: 524321
+EndChar
+EndChars
+EndSplineFont

@@ -1,0 +1,82 @@
+[
+  {
+    "Source": "07_SourceHanSansJ",
+    "Relative": "LICENSE.txt",
+    "Hash": "FCAC737E761EC63DBFBDCE11030A1780161920D80315EDBA9C8BEFF1C2BAC5A2"
+  },
+  {
+    "Source": "07_SourceHanSansJ",
+    "Relative": "OTF\\Japanese\\SourceHanSans-Bold.otf",
+    "Hash": "371A9376A7C4293CFC7DCD9B09EA29084CEB71ABEA494350B6D3D8825BB71700"
+  },
+  {
+    "Source": "07_SourceHanSansJ",
+    "Relative": "OTF\\Japanese\\SourceHanSans-ExtraLight.otf",
+    "Hash": "0BFB4C23B9386B6CB58DC0963C79CE33D83DF8CC6314DD2F7CBC88DD116365D9"
+  },
+  {
+    "Source": "07_SourceHanSansJ",
+    "Relative": "OTF\\Japanese\\SourceHanSans-Heavy.otf",
+    "Hash": "8FA22EE85D97F6D35131C819476A2B0D10EFC2B35B4C11F6F081A79B527EC827"
+  },
+  {
+    "Source": "07_SourceHanSansJ",
+    "Relative": "OTF\\Japanese\\SourceHanSans-Light.otf",
+    "Hash": "8DF543F096D23F1E98350AA98D93CA1894DB776D8B7BAA5DF76E29E2A7EB3371"
+  },
+  {
+    "Source": "07_SourceHanSansJ",
+    "Relative": "OTF\\Japanese\\SourceHanSans-Medium.otf",
+    "Hash": "377372DED6FD6958C971CC69E8AC5AE2F97140A014F14F3DFC2F281CFB3D2A1B"
+  },
+  {
+    "Source": "07_SourceHanSansJ",
+    "Relative": "OTF\\Japanese\\SourceHanSans-Normal.otf",
+    "Hash": "2E2875E2028430AAEB4C467A4B2A86FFDE774243996556BA0769615CAAA4E503"
+  },
+  {
+    "Source": "07_SourceHanSansJ",
+    "Relative": "OTF\\Japanese\\SourceHanSans-Regular.otf",
+    "Hash": "6FE3B72967986CCDEF600128752D1ADE57C13C68129A548CDEBE4C7D3C0F8543"
+  },
+  {
+    "Source": "09_SourceHanSansSC",
+    "Relative": "LICENSE.txt",
+    "Hash": "FCAC737E761EC63DBFBDCE11030A1780161920D80315EDBA9C8BEFF1C2BAC5A2"
+  },
+  {
+    "Source": "09_SourceHanSansSC",
+    "Relative": "OTF\\SimplifiedChinese\\SourceHanSansSC-Bold.otf",
+    "Hash": "DF2B90F5BCC6D01DFC964CEC5F6D535D6B6AEBD26ED7FD79A9C1B3F2112FCB6B"
+  },
+  {
+    "Source": "09_SourceHanSansSC",
+    "Relative": "OTF\\SimplifiedChinese\\SourceHanSansSC-ExtraLight.otf",
+    "Hash": "0F9697397CC718090B438AC7B03E9C6D81C85FE7B7032339BE861C9F9CB42E56"
+  },
+  {
+    "Source": "09_SourceHanSansSC",
+    "Relative": "OTF\\SimplifiedChinese\\SourceHanSansSC-Heavy.otf",
+    "Hash": "6374B11BC4C2CD4BD7BE1A1D64CF5047906C8A6A025C64E023C6792E50BA985E"
+  },
+  {
+    "Source": "09_SourceHanSansSC",
+    "Relative": "OTF\\SimplifiedChinese\\SourceHanSansSC-Light.otf",
+    "Hash": "B6DFC945AAE0DAF9B15019F59C2F7B18D17DA3B92F00C3EC32FB5F0333696D9C"
+  },
+  {
+    "Source": "09_SourceHanSansSC",
+    "Relative": "OTF\\SimplifiedChinese\\SourceHanSansSC-Medium.otf",
+    "Hash": "1DF61D31687D04FD2F928A3BB6CA6CD61F0E988CC267CF317F32406EDBB49F70"
+  },
+  {
+    "Source": "09_SourceHanSansSC",
+    "Relative": "OTF\\SimplifiedChinese\\SourceHanSansSC-Normal.otf",
+    "Hash": "7E5B7E586262F5E187C3397935B3A0DFBE28E08A916BE0F60EC7FEE2B50ABD6D"
+  },
+  {
+    "Source": "09_SourceHanSansSC",
+    "Relative": "OTF\\SimplifiedChinese\\SourceHanSansSC-Regular.otf",
+    "Hash": "F1D8611151880C6C336AABEAC4640EF434FA13CBFBF1FFE82D0A71B2A5637256"
+  }
+]
