@@ -1,0 +1,2 @@
+# simplified-simplified-Chinese
+在现行标准中文简体字与开源字体思源黑体基础上开发的三简字字体与字典
