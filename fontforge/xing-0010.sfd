@@ -1,0 +1,82 @@
+SplineFontDB: 3.2
+FontName: ZaiJianXingApproved-Regular
+FullName: ZaiJian Xing Approved Regular
+FamilyName: ZaiJian Xing Approved Regular
+Weight: Regular
+Copyright: Copyright (c) 2026, lenovo
+UComments: "2026-9-27: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 880
+Descent: 120
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 58 -1224232725 32104]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1790511977
+ModificationTime: 1790511977
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+BeginChars: 1114112 1
+
+StartChar: uni6027
+Encoding: 24615 24615 0
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+247 840 m 1
+ 247 -79 l 1
+ 172 -79 l 1
+ 172 840 l 1
+ 247 840 l 1
+137 642 m 1
+ 131 560 113 446 88 372 c 1
+ 29 392 l 1
+ 55 459 73 569 80 650 c 1
+ 137 642 l 1
+307 679 m 1
+ 337 625 368 554 379 512 c 1
+ 323 483 l 1
+ 312 528 283 601 254 656 c 1
+ 307 679 l 1
+737 815 m 1
+ 729 697 719 588 704 488 c 1
+ 738 320 816 105 969 0 c 1
+ 952 -14 926 -46 913 -68 c 1
+ 791 28 717 187 673 333 c 1
+ 630 164 563 28 453 -75 c 1
+ 440 -62 402 -35 381 -23 c 1
+ 581 144 634 434 656 819 c 1
+ 737 815 l 1
+EndSplineSet
+Validated: 1
+EndChar
+EndChars
+EndSplineFont

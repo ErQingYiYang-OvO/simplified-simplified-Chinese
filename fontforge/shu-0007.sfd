@@ -1,0 +1,75 @@
+SplineFontDB: 3.2
+FontName: ZaiJianShuApproved-Regular
+FullName: ZaiJianShuApproved-Regular
+FamilyName: ZaiJianShuApproved-Regular
+Weight: Regular
+Copyright: Copyright (c) 2026, lenovo
+UComments: "2026-9-27: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 880
+Descent: 120
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 988 -135745228 26081]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1790508581
+ModificationTime: 1790508581
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+BeginChars: 1114112 1
+
+StartChar: uni6570
+Encoding: 25968 25968 0
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+829 -27 m 1
+ 762 62 656 179 554 270 c 1
+ 447 155 312 45 164 -22 c 1
+ 100 45 l 1
+ 261 108 409 227 512 342 c 0
+ 580 419 653 537 678 620 c 1
+ 642 620 323 620 288 620 c 0
+ 253 620 199 616 187 615 c 1
+ 187 706 l 1
+ 202 704 258 700 288 700 c 0
+ 328 700 637 700 674 700 c 0
+ 707 700 733 703 749 708 c 1
+ 800 669 l 1
+ 794 661 781 639 775 625 c 0
+ 741 539 678 422 607 332 c 1
+ 712 242 834 112 899 33 c 1
+ 829 -27 l 1
+EndSplineSet
+Validated: 1
+EndChar
+EndChars
+EndSplineFont

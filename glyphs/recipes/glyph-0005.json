@@ -1,0 +1,14 @@
+{
+  "glyph_id": "glyph-0005",
+  "original": "微",
+  "revision": 1,
+  "status": "用户确认",
+  "outline_authority": "glyphs/versions/glyph-0005/v1-approved/user-confirmed.svg",
+  "sha256": "d3d6eae50ba334b27df31d375823172d5240a9e3a44bd1a7df0f919d7baccfec",
+  "coordinate_system": "1000 UPM; baseline at SVG y=880",
+  "width": 1000,
+  "donor_character": "匕",
+  "note": "用户授权直接入库，无需单独审阅；保持完整来源字形。",
+  "source_font": "sources/09_SourceHanSansSC/OTF/SimplifiedChinese/SourceHanSansSC-Regular.otf",
+  "source_glyph": "cid11586"
+}

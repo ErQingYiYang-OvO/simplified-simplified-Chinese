@@ -10,6 +10,96 @@
       "revision": 4,
       "status": "用户确认",
       "approved_svg_sha256": "6b1ff132f0b739c5787faa393e4acd89ec90723c15e599af970fbaaf1b59bd12"
+    },
+    {
+      "id": "entry-0002",
+      "original": "是",
+      "method": "意字",
+      "idea": "从“是”联想到“系”，进而联想到绳子系在树上的样子。字形由一根长竖与“也”中的横折钩组成；结构也与含义相近的“为”相似。",
+      "glyph_id": "glyph-0002",
+      "revision": 2,
+      "status": "用户确认",
+      "approved_svg_sha256": "0b6eba5b988a2837f67f778a4ba850c3d3a6ccbb8ec8b2d1705103e3a248fd3d"
+    },
+    {
+      "id": "entry-0003",
+      "original": "意",
+      "method": "借字",
+      "idea": "在港台翻译中会把意大利翻译为义大利，从而联想到直接使用“义”取代“意”。",
+      "glyph_id": "glyph-0003",
+      "revision": 1,
+      "status": "用户确认",
+      "approved_svg_sha256": "c2796bacc25d3f094cb076d6d13daba8f4d37969c1525cca2945f004b17052d1"
+    },
+    {
+      "id": "entry-0004",
+      "original": "等",
+      "method": "俗字",
+      "idea": "来自于“等”字的草书楷化，常见于数学课堂。字形类似日语假名“サ”，但右侧笔画为直竖，没有弯。",
+      "glyph_id": "glyph-0004",
+      "revision": 1,
+      "status": "用户确认",
+      "approved_svg_sha256": "8c0494aa118e205758b32f4bf43f54d45ecb8156fed616d50be987d632b10aad"
+    },
+    {
+      "id": "entry-0005",
+      "original": "微",
+      "method": "借字",
+      "idea": "联想自日语音读ビ，如「微妙」读作「びみょう」，故选取与ビ音近形近的“匕”字。",
+      "glyph_id": "glyph-0005",
+      "revision": 1,
+      "status": "用户确认",
+      "approved_svg_sha256": "d3d6eae50ba334b27df31d375823172d5240a9e3a44bd1a7df0f919d7baccfec"
+    },
+    {
+      "id": "entry-0006",
+      "original": "算",
+      "method": "借字",
+      "idea": "平时使用时会一不小心把“算”与新字形“等”搞错，故直接将两个字规定为同形；另一方面，联想自“算”的日语音读サン中的サ。",
+      "glyph_id": "glyph-0006",
+      "revision": 1,
+      "status": "用户确认",
+      "approved_svg_sha256": "8c0494aa118e205758b32f4bf43f54d45ecb8156fed616d50be987d632b10aad"
+    },
+    {
+      "id": "entry-0007",
+      "original": "数",
+      "method": "借字",
+      "idea": "联想自日语音读スウ，直接使用日语假名「ス」的完整字形。",
+      "glyph_id": "glyph-0007",
+      "revision": 1,
+      "status": "用户确认",
+      "approved_svg_sha256": "3bedaf22fcf76310477c49970f2d786d62631cc6946404a243fbcbf5838a7979"
+    },
+    {
+      "id": "entry-0008",
+      "original": "有",
+      "method": "俗字",
+      "idea": "2025年秋季线性代数B的老师在黑板上会用“友”的字形写“有”，于是我也决定这么写。",
+      "glyph_id": "glyph-0008",
+      "revision": 1,
+      "status": "用户确认",
+      "approved_svg_sha256": "e90999b5a5b7a2a1e0a42e50484bb3973593375c2b9d7c770f6e536905539aea"
+    },
+    {
+      "id": "entry-0009",
+      "original": "得",
+      "method": "借字",
+      "idea": "来自于日语词「得る」的读音「エル」，上面用“工”、下面用“儿”拼在一起，使之类似撇捺分开了的“无”。",
+      "glyph_id": "glyph-0009",
+      "revision": 2,
+      "status": "用户确认",
+      "approved_svg_sha256": "38c1a67a0acca09a6ea617bf6ae650439269a1fdcb8cc0bcf6a8632d463a2420"
+    },
+    {
+      "id": "entry-0010",
+      "original": "性",
+      "method": "意字",
+      "idea": "性，人心也。左边为竖心旁，右边为人。",
+      "glyph_id": "glyph-0010",
+      "revision": 1,
+      "status": "用户确认",
+      "approved_svg_sha256": "19205dfebac82c75d8874123aa2eda49fd9c58059bc1124cd754f7eb179c2275"
     }
   ]
 }

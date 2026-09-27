@@ -59,6 +59,9 @@ def extract():
 
 
 def finalize(approved_svg=None):
+    registered = json.loads((ROOT / 'glyphs/index.json').read_text(encoding='utf-8-sig'))['entries']
+    if any(item.get('original') != '能' and item.get('status') == '用户确认' for item in registered):
+        raise RuntimeError('Use font_tools/build_approved.py to preserve every approved glyph.')
     if not approved_svg:
         entries = json.loads((ROOT / 'data/dictionary.json').read_text(encoding='utf-8-sig'))['entries']
         if any(item.get('original') == '\u80fd' and item.get('status') == '\u7528\u6237\u786e\u8ba4' for item in entries):

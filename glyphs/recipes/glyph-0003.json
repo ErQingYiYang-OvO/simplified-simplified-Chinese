@@ -1,0 +1,14 @@
+{
+  "glyph_id": "glyph-0003",
+  "original": "意",
+  "revision": 1,
+  "status": "用户确认",
+  "outline_authority": "glyphs/versions/glyph-0003/v1-approved/user-confirmed.svg",
+  "sha256": "c2796bacc25d3f094cb076d6d13daba8f4d37969c1525cca2945f004b17052d1",
+  "coordinate_system": "1000 UPM; baseline at SVG y=880",
+  "width": 1000,
+  "source_font": "sources/09_SourceHanSansSC/OTF/SimplifiedChinese/SourceHanSansSC-Regular.otf",
+  "source_character": "义",
+  "source_glyph": "cid09605",
+  "note": "原样借用义的完整轮廓，不缩放、不变形。"
+}

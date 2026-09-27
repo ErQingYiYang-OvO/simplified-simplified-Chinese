@@ -19,6 +19,172 @@
       "approved_svg_sha256": "6b1ff132f0b739c5787faa393e4acd89ec90723c15e599af970fbaaf1b59bd12",
       "approved_source": "glyphs/versions/glyph-0001/v4-approved/user-confirmed.svg",
       "font_file": "releases/ZaiJianSans-Regular.otf"
+    },
+    {
+      "id": "glyph-0002",
+      "original": "是",
+      "outline": "glyphs/svg/glyph-0002.svg",
+      "component_ids": [
+        "cmp-0006",
+        "cmp-0007"
+      ],
+      "structure": "长竖与横折钩相交",
+      "ai_file": "glyphs/ai/glyph-0002.ai",
+      "fontforge_file": "fontforge/shi-0002.sfd",
+      "recipe_file": "glyphs/recipes/glyph-0002.json",
+      "reference_image": "design/sketches/shi-0002.jpg",
+      "revision": 2,
+      "status": "用户确认",
+      "approved_svg_sha256": "0b6eba5b988a2837f67f778a4ba850c3d3a6ccbb8ec8b2d1705103e3a248fd3d",
+      "approved_source": "glyphs/versions/glyph-0002/v2-approved/user-confirmed.svg",
+      "font_file": "releases/ZaiJianSans-Regular.otf"
+    },
+    {
+      "id": "glyph-0003",
+      "original": "意",
+      "outline": "glyphs/svg/glyph-0003.svg",
+      "component_ids": [
+        "cmp-0008"
+      ],
+      "structure": "直接借用义的完整字形",
+      "ai_file": "glyphs/ai/glyph-0003.ai",
+      "fontforge_file": "fontforge/yi-0003.sfd",
+      "recipe_file": "glyphs/recipes/glyph-0003.json",
+      "revision": 1,
+      "status": "用户确认",
+      "approved_svg_sha256": "c2796bacc25d3f094cb076d6d13daba8f4d37969c1525cca2945f004b17052d1",
+      "approved_source": "glyphs/versions/glyph-0003/v1-approved/user-confirmed.svg",
+      "font_file": "releases/ZaiJianSans-Regular.otf"
+    },
+    {
+      "id": "glyph-0004",
+      "original": "等",
+      "outline": "glyphs/svg/glyph-0004.svg",
+      "component_ids": [
+        "cmp-0009",
+        "cmp-0010",
+        "cmp-0011"
+      ],
+      "structure": "横画与左短竖、右直长竖相交",
+      "ai_file": "glyphs/ai/glyph-0004.ai",
+      "fontforge_file": "fontforge/deng-0004.sfd",
+      "recipe_file": "glyphs/recipes/glyph-0004.json",
+      "reference_image": "design/sketches/deng-0004.jpg",
+      "revision": 1,
+      "status": "用户确认",
+      "approved_svg_sha256": "8c0494aa118e205758b32f4bf43f54d45ecb8156fed616d50be987d632b10aad",
+      "approved_source": "glyphs/versions/glyph-0004/v1-approved/user-confirmed.svg",
+      "font_file": "releases/ZaiJianSans-Regular.otf"
+    },
+    {
+      "id": "glyph-0005",
+      "original": "微",
+      "outline": "glyphs/svg/glyph-0005.svg",
+      "component_ids": [
+        "cmp-0012"
+      ],
+      "structure": "直接借用匕的完整字形",
+      "ai_file": "glyphs/ai/glyph-0005.ai",
+      "fontforge_file": "fontforge/wei-0005.sfd",
+      "recipe_file": "glyphs/recipes/glyph-0005.json",
+      "revision": 1,
+      "status": "用户确认",
+      "approval_note": "用户授权直接入库，无需单独审阅；保持完整来源字形。",
+      "approved_svg_sha256": "d3d6eae50ba334b27df31d375823172d5240a9e3a44bd1a7df0f919d7baccfec",
+      "approved_source": "glyphs/versions/glyph-0005/v1-approved/user-confirmed.svg",
+      "font_file": "releases/ZaiJianSans-Regular.otf"
+    },
+    {
+      "id": "glyph-0006",
+      "original": "算",
+      "outline": "glyphs/svg/glyph-0006.svg",
+      "component_ids": [
+        "cmp-0013"
+      ],
+      "structure": "直接借用等的完整字形",
+      "ai_file": "glyphs/ai/glyph-0006.ai",
+      "fontforge_file": "fontforge/suan-0006.sfd",
+      "recipe_file": "glyphs/recipes/glyph-0006.json",
+      "revision": 1,
+      "status": "用户确认",
+      "approval_note": "用户授权直接入库，无需单独审阅；保持完整来源字形。",
+      "approved_svg_sha256": "8c0494aa118e205758b32f4bf43f54d45ecb8156fed616d50be987d632b10aad",
+      "approved_source": "glyphs/versions/glyph-0006/v1-approved/user-confirmed.svg",
+      "font_file": "releases/ZaiJianSans-Regular.otf"
+    },
+    {
+      "id": "glyph-0007",
+      "original": "数",
+      "outline": "glyphs/svg/glyph-0007.svg",
+      "component_ids": [
+        "cmp-0014"
+      ],
+      "structure": "直接借用ス的完整字形",
+      "ai_file": "glyphs/ai/glyph-0007.ai",
+      "fontforge_file": "fontforge/shu-0007.sfd",
+      "recipe_file": "glyphs/recipes/glyph-0007.json",
+      "revision": 1,
+      "status": "用户确认",
+      "approval_note": "用户授权直接入库，无需单独审阅；保持完整来源字形。",
+      "approved_svg_sha256": "3bedaf22fcf76310477c49970f2d786d62631cc6946404a243fbcbf5838a7979",
+      "approved_source": "glyphs/versions/glyph-0007/v1-approved/user-confirmed.svg",
+      "font_file": "releases/ZaiJianSans-Regular.otf"
+    },
+    {
+      "id": "glyph-0008",
+      "original": "有",
+      "outline": "glyphs/svg/glyph-0008.svg",
+      "component_ids": [
+        "cmp-0015"
+      ],
+      "structure": "直接使用友的完整字形",
+      "ai_file": "glyphs/ai/glyph-0008.ai",
+      "fontforge_file": "fontforge/you-0008.sfd",
+      "recipe_file": "glyphs/recipes/glyph-0008.json",
+      "revision": 1,
+      "status": "用户确认",
+      "approval_note": "用户明确授权直接入库，无需单独审阅。",
+      "approved_svg_sha256": "e90999b5a5b7a2a1e0a42e50484bb3973593375c2b9d7c770f6e536905539aea",
+      "approved_source": "glyphs/versions/glyph-0008/v1-approved/user-confirmed.svg",
+      "font_file": "releases/ZaiJianSans-Regular.otf"
+    },
+    {
+      "id": "glyph-0009",
+      "original": "得",
+      "outline": "glyphs/svg/glyph-0009.svg",
+      "component_ids": [
+        "cmp-0016",
+        "cmp-0017"
+      ],
+      "structure": "上下结构，上工下儿",
+      "ai_file": "glyphs/ai/glyph-0009.ai",
+      "fontforge_file": "fontforge/de-0009.sfd",
+      "recipe_file": "glyphs/recipes/glyph-0009.json",
+      "reference_image": "design/sketches/de-0009.jpg",
+      "revision": 2,
+      "status": "用户确认",
+      "approved_svg_sha256": "38c1a67a0acca09a6ea617bf6ae650439269a1fdcb8cc0bcf6a8632d463a2420",
+      "approved_source": "glyphs/versions/glyph-0009/v2-approved/user-confirmed.svg",
+      "font_file": "releases/ZaiJianSans-Regular.otf"
+    },
+    {
+      "id": "glyph-0010",
+      "original": "性",
+      "outline": "glyphs/svg/glyph-0010.svg",
+      "component_ids": [
+        "cmp-0018",
+        "cmp-0019"
+      ],
+      "structure": "左右结构，左竖心旁右人",
+      "ai_file": "glyphs/ai/glyph-0010.ai",
+      "fontforge_file": "fontforge/xing-0010.sfd",
+      "recipe_file": "glyphs/recipes/glyph-0010.json",
+      "reference_image": "design/sketches/xing-0010.jpg",
+      "revision": 1,
+      "status": "用户确认",
+      "approved_svg_sha256": "19205dfebac82c75d8874123aa2eda49fd9c58059bc1124cd754f7eb179c2275",
+      "approved_source": "glyphs/versions/glyph-0010/v1-approved/user-confirmed.svg",
+      "font_file": "releases/ZaiJianSans-Regular.otf"
     }
   ]
 }

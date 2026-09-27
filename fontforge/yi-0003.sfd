@@ -1,0 +1,76 @@
+SplineFontDB: 3.2
+FontName: ZaiJianYiApproved-Regular
+FullName: ZaiJian Yi Approved Regular
+FamilyName: ZaiJian Yi Approved
+Weight: Regular
+Copyright: Copyright (c) 2026, lenovo
+UComments: "2026-9-27: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 880
+Descent: 120
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 831 116429967 11301]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1790507285
+ModificationTime: 1790507285
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+BeginChars: 1114112 1
+
+StartChar: uni610F
+Encoding: 24847 24847 0
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+478 844 m 1
+ 516 768 560 670 580 604 c 1
+ 512 576 l 1
+ 494 642 449 744 413 819 c 1
+ 478 844 l 1
+869 743 m 1
+ 798 539 701 361 558 216 c 1
+ 673 114 808 35 963 -12 c 1
+ 945 -28 922 -59 911 -79 c 1
+ 752 -27 616 56 501 162 c 1
+ 387 62 248 -19 76 -79 c 1
+ 68 -60 50 -31 36 -15 c 1
+ 203 40 338 118 447 214 c 1
+ 318 349 218 516 145 703 c 1
+ 214 725 l 1
+ 279 553 377 395 503 268 c 1
+ 638 405 730 575 792 767 c 1
+ 869 743 l 1
+EndSplineSet
+Validated: 1
+EndChar
+EndChars
+EndSplineFont

@@ -1,0 +1,88 @@
+SplineFontDB: 3.2
+FontName: ZaiJianDeApproved-Regular
+FullName: ZaiJian De Approved Regular
+FamilyName: ZaiJian De Approved Regular
+Weight: Regular
+Copyright: Copyright (c) 2026, lenovo
+UComments: "2026-9-27: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 880
+Descent: 120
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 27 68873579 13156]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1790510547
+ModificationTime: 1790510547
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+BeginChars: 1114112 1
+
+StartChar: uni5F97
+Encoding: 24471 24471 0
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+678 52.615234375 m 2
+ 678 6.615234375 684 -2.384765625 716 -2.384765625 c 0
+ 732 -2.384765625 802 -2.384765625 820 -2.384765625 c 0
+ 857 -2.384765625 861 41.615234375 866 169.498046875 c 1
+ 885 163.719726562 915 158.327148438 936 156.401367188 c 1
+ 929 -11.384765625 911 -74.384765625 825 -74.384765625 c 0
+ 809 -74.384765625 724 -74.384765625 707 -74.384765625 c 0
+ 625 -74.384765625 602 -46.384765625 602 53.615234375 c 2
+ 602 395.615234375 l 1
+ 79 395.615234375 l 1
+ 79 470.615234375 l 1
+ 435 470.615234375 l 1
+ 435 735.615234375 l 1
+ 177 735.615234375 l 1
+ 177 812.615234375 l 1
+ 781 812.615234375 l 1
+ 781 735.615234375 l 1
+ 518 735.615234375 l 1
+ 518 470.615234375 l 1
+ 889 470.615234375 l 1
+ 890 395.615234375 l 1
+ 678 395.615234375 l 1
+ 678 52.615234375 l 2
+366 270.037109375 m 2
+ 366 191.83984375 340 57.615234375 118 -86.384765625 c 1
+ 107 -69.384765625 82 -41.384765625 64 -28.384765625 c 1
+ 268 102.615234375 291 201.084960938 291 270.421875 c 2
+ 291 395.23046875 l 1
+ 366 395.23046875 l 1
+ 366 270.037109375 l 2
+EndSplineSet
+Validated: 524289
+EndChar
+EndChars
+EndSplineFont

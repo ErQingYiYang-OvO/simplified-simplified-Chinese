@@ -48,6 +48,150 @@
       "derived_from": "cmp-0002",
       "status": "用户确认",
       "approved_svg_sha256": "6b1ff132f0b739c5787faa393e4acd89ec90723c15e599af970fbaaf1b59bd12"
+    },
+    {
+      "id": "cmp-0006",
+      "name": "是·长竖定稿",
+      "source": "按 Source Han Sans SC / Regular 笔画粗细绘制长竖，用户手动微调并确认",
+      "outline": "components/svg/cmp-0006.svg",
+      "status": "用户确认",
+      "approved_svg_sha256": "0b6eba5b988a2837f67f778a4ba850c3d3a6ccbb8ec8b2d1705103e3a248fd3d"
+    },
+    {
+      "id": "cmp-0007",
+      "name": "是·也横折钩定稿",
+      "source": "Source Han Sans SC / Regular / 也 U+4E5F / 从融合轮廓分离横折钩并调整，用户手动微调并确认",
+      "outline": "components/svg/cmp-0007.svg",
+      "status": "用户确认",
+      "approved_svg_sha256": "0b6eba5b988a2837f67f778a4ba850c3d3a6ccbb8ec8b2d1705103e3a248fd3d"
+    },
+    {
+      "id": "cmp-0008",
+      "name": "义·完整字形",
+      "source": "Source Han Sans SC / Regular / 义 U+4E49 / 完整轮廓，原样借用于意",
+      "outline": "components/svg/cmp-0008.svg",
+      "source_font": "sources/09_SourceHanSansSC/OTF/SimplifiedChinese/SourceHanSansSC-Regular.otf",
+      "source_glyph": "cid09605",
+      "status": "用户确认",
+      "approved_svg_sha256": "c2796bacc25d3f094cb076d6d13daba8f4d37969c1525cca2945f004b17052d1"
+    },
+    {
+      "id": "cmp-0009",
+      "name": "等·横定稿",
+      "source": "Source Han Sans J / Regular / サ U+30B5 / 从サ的融合轮廓分离横画，保留端部控制点",
+      "source_font": "sources/07_SourceHanSansJ/OTF/Japanese/SourceHanSans-Regular.otf",
+      "source_glyph": "cid01579",
+      "outline": "components/svg/cmp-0009.svg",
+      "status": "用户确认",
+      "approved_svg_sha256": "8c0494aa118e205758b32f4bf43f54d45ecb8156fed616d50be987d632b10aad"
+    },
+    {
+      "id": "cmp-0010",
+      "name": "等·左短竖定稿",
+      "source": "Source Han Sans J / Regular / サ U+30B5 / 参考サ的竖画粗细绘制左短竖",
+      "source_font": "sources/07_SourceHanSansJ/OTF/Japanese/SourceHanSans-Regular.otf",
+      "source_glyph": "cid01579",
+      "outline": "components/svg/cmp-0010.svg",
+      "status": "用户确认",
+      "approved_svg_sha256": "8c0494aa118e205758b32f4bf43f54d45ecb8156fed616d50be987d632b10aad"
+    },
+    {
+      "id": "cmp-0011",
+      "name": "等·右直长竖定稿",
+      "source": "Source Han Sans J / Regular / サ U+30B5 / 参考サ的竖画粗细绘制右直长竖，不带弯钩",
+      "source_font": "sources/07_SourceHanSansJ/OTF/Japanese/SourceHanSans-Regular.otf",
+      "source_glyph": "cid01579",
+      "outline": "components/svg/cmp-0011.svg",
+      "status": "用户确认",
+      "approved_svg_sha256": "8c0494aa118e205758b32f4bf43f54d45ecb8156fed616d50be987d632b10aad"
+    },
+    {
+      "id": "cmp-0012",
+      "name": "匕·完整字形（用于微）",
+      "outline": "components/svg/cmp-0012.svg",
+      "status": "用户确认",
+      "approved_svg_sha256": "d3d6eae50ba334b27df31d375823172d5240a9e3a44bd1a7df0f919d7baccfec",
+      "source": "Source Han Sans SC / Regular / 匕 / 完整轮廓",
+      "source_font": "sources/09_SourceHanSansSC/OTF/SimplifiedChinese/SourceHanSansSC-Regular.otf",
+      "source_glyph": "cid11586"
+    },
+    {
+      "id": "cmp-0013",
+      "name": "等·完整字形（用于算）",
+      "outline": "components/svg/cmp-0013.svg",
+      "status": "用户确认",
+      "approved_svg_sha256": "8c0494aa118e205758b32f4bf43f54d45ecb8156fed616d50be987d632b10aad",
+      "source": "用户确认的“等”新字形 glyph-0004 / 完整轮廓，原样借用于算",
+      "source_outline": "glyphs/svg/glyph-0004.svg",
+      "source_glyph_id": "glyph-0004"
+    },
+    {
+      "id": "cmp-0014",
+      "name": "ス·完整字形（用于数）",
+      "outline": "components/svg/cmp-0014.svg",
+      "status": "用户确认",
+      "approved_svg_sha256": "3bedaf22fcf76310477c49970f2d786d62631cc6946404a243fbcbf5838a7979",
+      "source": "Source Han Sans J / Regular / ス / 完整轮廓",
+      "source_font": "sources/07_SourceHanSansJ/OTF/Japanese/SourceHanSans-Regular.otf",
+      "source_glyph": "cid01583"
+    },
+    {
+      "id": "cmp-0015",
+      "name": "友·完整字形（用于有）",
+      "source": "Source Han Sans SC / Regular / 友 U+53CB / 完整轮廓，原样用于有",
+      "outline": "components/svg/cmp-0015.svg",
+      "source_font": "sources/09_SourceHanSansSC/OTF/SimplifiedChinese/SourceHanSansSC-Regular.otf",
+      "source_glyph": "cid11889",
+      "status": "用户确认",
+      "approved_svg_sha256": "e90999b5a5b7a2a1e0a42e50484bb3973593375c2b9d7c770f6e536905539aea"
+    },
+    {
+      "id": "cmp-0016",
+      "name": "得·工字头定稿",
+      "source": "Source Han Sans SC / Regular / 工 / 调整上下组合比例，用户手动微调后收近儿的两笔并确认",
+      "source_font": "sources/09_SourceHanSansSC/OTF/SimplifiedChinese/SourceHanSansSC-Regular.otf",
+      "source_glyph": "cid16661",
+      "outline": "components/svg/cmp-0016.svg",
+      "status": "用户确认",
+      "approved_svg_sha256": "38c1a67a0acca09a6ea617bf6ae650439269a1fdcb8cc0bcf6a8632d463a2420"
+    },
+    {
+      "id": "cmp-0017",
+      "name": "得·儿字底定稿",
+      "source": "Source Han Sans SC / Regular / 儿 / 调整上下组合比例，用户手动微调后收近儿的两笔并确认",
+      "source_font": "sources/09_SourceHanSansSC/OTF/SimplifiedChinese/SourceHanSansSC-Regular.otf",
+      "source_glyph": "cid10855",
+      "outline": "components/svg/cmp-0017.svg",
+      "status": "用户确认",
+      "approved_svg_sha256": "38c1a67a0acca09a6ea617bf6ae650439269a1fdcb8cc0bcf6a8632d463a2420"
+    },
+    {
+      "id": "cmp-0018",
+      "name": "性·竖心旁定稿",
+      "source": "Source Han Sans SC / Regular / 性 / 提取原字竖心旁",
+      "source_font": "sources/09_SourceHanSansSC/OTF/SimplifiedChinese/SourceHanSansSC-Regular.otf",
+      "source_glyph": "cid17657",
+      "contour_indices": [
+        0,
+        1,
+        2
+      ],
+      "outline": "components/svg/cmp-0018.svg",
+      "status": "用户确认",
+      "approved_svg_sha256": "19205dfebac82c75d8874123aa2eda49fd9c58059bc1124cd754f7eb179c2275"
+    },
+    {
+      "id": "cmp-0019",
+      "name": "性·人字右部定稿",
+      "source": "Source Han Sans SC / Regular / 从 / 提取右侧人部件，向右平移10单位",
+      "source_font": "sources/09_SourceHanSansSC/OTF/SimplifiedChinese/SourceHanSansSC-Regular.otf",
+      "source_glyph": "cid09804",
+      "contour_indices": [
+        1
+      ],
+      "outline": "components/svg/cmp-0019.svg",
+      "status": "用户确认",
+      "approved_svg_sha256": "19205dfebac82c75d8874123aa2eda49fd9c58059bc1124cd754f7eb179c2275"
     }
   ]
 }

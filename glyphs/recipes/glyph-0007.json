@@ -1,0 +1,14 @@
+{
+  "glyph_id": "glyph-0007",
+  "original": "数",
+  "revision": 1,
+  "status": "用户确认",
+  "outline_authority": "glyphs/versions/glyph-0007/v1-approved/user-confirmed.svg",
+  "sha256": "3bedaf22fcf76310477c49970f2d786d62631cc6946404a243fbcbf5838a7979",
+  "coordinate_system": "1000 UPM; baseline at SVG y=880",
+  "width": 1000,
+  "donor_character": "ス",
+  "note": "用户授权直接入库，无需单独审阅；保持完整来源字形。",
+  "source_font": "sources/07_SourceHanSansJ/OTF/Japanese/SourceHanSans-Regular.otf",
+  "source_glyph": "cid01583"
+}

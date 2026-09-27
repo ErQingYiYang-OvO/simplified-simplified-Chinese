@@ -1,0 +1,14 @@
+{
+  "glyph_id": "glyph-0008",
+  "original": "有",
+  "revision": 1,
+  "status": "用户确认",
+  "outline_authority": "glyphs/versions/glyph-0008/v1-approved/user-confirmed.svg",
+  "sha256": "e90999b5a5b7a2a1e0a42e50484bb3973593375c2b9d7c770f6e536905539aea",
+  "coordinate_system": "1000 UPM; baseline at SVG y=880",
+  "width": 1000,
+  "donor_character": "友",
+  "source_font": "sources/09_SourceHanSansSC/OTF/SimplifiedChinese/SourceHanSansSC-Regular.otf",
+  "source_glyph": "cid11889",
+  "note": "用户授权直接入库；原样使用友的完整轮廓，不缩放、不变形。"
+}

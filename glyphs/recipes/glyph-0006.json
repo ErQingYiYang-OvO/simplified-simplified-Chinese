@@ -1,0 +1,14 @@
+{
+  "glyph_id": "glyph-0006",
+  "original": "算",
+  "revision": 1,
+  "status": "用户确认",
+  "outline_authority": "glyphs/versions/glyph-0006/v1-approved/user-confirmed.svg",
+  "sha256": "8c0494aa118e205758b32f4bf43f54d45ecb8156fed616d50be987d632b10aad",
+  "coordinate_system": "1000 UPM; baseline at SVG y=880",
+  "width": 1000,
+  "donor_character": "等",
+  "note": "用户授权直接入库，无需单独审阅；保持完整来源字形。",
+  "source_outline": "glyphs/svg/glyph-0004.svg",
+  "source_glyph_id": "glyph-0004"
+}

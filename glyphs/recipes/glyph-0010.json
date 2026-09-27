@@ -1,0 +1,30 @@
+{
+  "glyph_id": "glyph-0010",
+  "original": "性",
+  "revision": 1,
+  "status": "用户确认",
+  "outline_authority": "glyphs/versions/glyph-0010/v1-approved/user-confirmed.svg",
+  "sha256": "19205dfebac82c75d8874123aa2eda49fd9c58059bc1124cd754f7eb179c2275",
+  "coordinate_system": "1000 UPM; baseline at SVG y=880",
+  "width": 1000,
+  "source_font": "sources/09_SourceHanSansSC/OTF/SimplifiedChinese/SourceHanSansSC-Regular.otf",
+  "left": {
+    "character": "性",
+    "source_glyph": "cid17657",
+    "contour_indices": [
+      0,
+      1,
+      2
+    ]
+  },
+  "right": {
+    "character": "从",
+    "component": "右侧人",
+    "source_glyph": "cid09804",
+    "contour_indices": [
+      1
+    ],
+    "translate_x": 10
+  },
+  "note": "用户批准第一版；正式轮廓直接采用批准SVG。"
+}

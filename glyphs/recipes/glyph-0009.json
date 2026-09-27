@@ -1,0 +1,12 @@
+{
+  "glyph_id": "glyph-0009",
+  "original": "得",
+  "revision": 2,
+  "status": "用户确认",
+  "outline_authority": "glyphs/versions/glyph-0009/v2-approved/user-confirmed.svg",
+  "sha256": "38c1a67a0acca09a6ea617bf6ae650439269a1fdcb8cc0bcf6a8632d463a2420",
+  "coordinate_system": "1000 UPM; baseline at SVG y=880",
+  "width": 1000,
+  "source_font": "sources/09_SourceHanSansSC/OTF/SimplifiedChinese/SourceHanSansSC-Regular.otf",
+  "note": "用户微调第一版后，将儿的左笔右移30、右笔左移30，第二版获批准。正式轮廓直接采用批准SVG。"
+}

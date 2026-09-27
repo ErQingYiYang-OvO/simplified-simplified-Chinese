@@ -1,0 +1,83 @@
+SplineFontDB: 3.2
+FontName: ZaiJianDengApproved-Regular
+FullName: ZaiJian Deng Approved Regular
+FamilyName: ZaiJian Deng Approved
+Weight: Regular
+Copyright: Copyright (c) 2026, lenovo
+UComments: "2026-9-27: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 880
+Descent: 120
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 140 2132160253 2083]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1790507945
+ModificationTime: 1790507945
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+BeginChars: 1114112 1
+
+StartChar: uni7B49
+Encoding: 31561 31561 0
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+640 838 m 1
+ 720 838 l 1
+ 720 571 l 1
+ 830 571 l 2
+ 874 571 907 574 922 576 c 1
+ 922 492 l 1
+ 910 493 874 494 830 494 c 2
+ 720 494 l 1
+ 720 -55 l 1
+ 640 -55 l 1
+ 640 494 l 1
+ 355 494 l 1
+ 355 210 l 1
+ 275 210 l 1
+ 275 494 l 1
+ 167 494 l 2
+ 124 494 83 492 67 491 c 1
+ 67 578 l 1
+ 77 576 125 571 167 571 c 2
+ 275 571 l 1
+ 275 680 l 1
+ 355 680 l 1
+ 355 571 l 1
+ 640 571 l 1
+ 640 838 l 1
+EndSplineSet
+Validated: 1
+EndChar
+EndChars
+EndSplineFont

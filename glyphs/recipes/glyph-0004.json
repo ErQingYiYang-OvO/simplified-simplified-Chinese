@@ -1,0 +1,14 @@
+{
+  "glyph_id": "glyph-0004",
+  "original": "等",
+  "revision": 1,
+  "status": "用户确认",
+  "outline_authority": "glyphs/versions/glyph-0004/v1-approved/user-confirmed.svg",
+  "sha256": "8c0494aa118e205758b32f4bf43f54d45ecb8156fed616d50be987d632b10aad",
+  "coordinate_system": "1000 UPM; baseline at SVG y=880",
+  "width": 1000,
+  "source_font": "sources/07_SourceHanSansJ/OTF/Japanese/SourceHanSans-Regular.otf",
+  "reference_character": "サ",
+  "source_glyph": "cid01579",
+  "note": "采用用户确认的第一版SVG，不重新拼装或调整比例。"
+}

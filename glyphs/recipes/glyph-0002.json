@@ -1,0 +1,11 @@
+{
+  "glyph_id": "glyph-0002",
+  "original": "是",
+  "revision": 2,
+  "status": "用户确认",
+  "outline_authority": "glyphs/versions/glyph-0002/v2-approved/user-confirmed.svg",
+  "sha256": "0b6eba5b988a2837f67f778a4ba850c3d3a6ccbb8ec8b2d1705103e3a248fd3d",
+  "coordinate_system": "1000 UPM; baseline at SVG y=880",
+  "width": 1000,
+  "note": "直接使用用户手动调整并确认的 SVG，不重新拼装或变形。"
+}
